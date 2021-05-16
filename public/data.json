@@ -1,0 +1,775 @@
+{
+    "banner" : [
+        {
+            "element_id" : "tabTitle",
+            "type" : "input",
+            "label" : "Tab Title"
+        },
+        {
+            "element_id" : "navBar1",
+            "type" : "input",
+            "label" : "NavBar 1"
+        },
+        {
+            "element_id" : "navBar2",
+            "type" : "input",
+            "label" : "NavBar 2"
+        },
+        {
+            "element_id" : "navBar3",
+            "type" : "input",
+            "label" : "NavBar 3"
+        },
+        {
+            "element_id" : "navBar4",
+            "type" : "input",
+            "label" : "NavBar 4"
+        },
+        {
+            "element_id" : "navBar5",
+            "type" : "input",
+            "label" : "NavBar 5"
+        },
+        {
+            "element_id" : "navBar6",
+            "type" : "input",
+            "label" : "NavBar 6"
+        },
+        {
+            "element_id" : "navBar7",
+            "type" : "input",
+            "label" : "NavBar 7"
+        },
+        {
+            "element_id" : "bannerName",
+            "type" : "input",
+            "label" : "Banner Heading"
+        },
+        {
+            "element_id" : "bannerHeading", 
+            "type" : "input",
+            "label" : "Banner Sub Heading"
+        },
+        {
+            "element_id" : "bannerButton1",
+            "type" : "input",
+            "label" : "Button 1 Text"
+        },
+        {
+            "element_id" : "bannerButton2",
+            "type" : "input",
+            "label" : "Button 2 Text"
+        },
+        {
+            "element_id" : "bannerButton1Link",
+            "type" : "input",
+            "label" : "Button 1 Link"
+        },
+        {
+            "element_id" : "bannerButton2Link",
+            "type" : "input",
+            "label" : "Button 2 Link"
+        },
+        {
+            "element_id" : "socialMedia1Link",
+            "type" : "input",
+            "label" : "Social Media 1 Link"
+        },
+        {
+            "element_id" : "socialMedia1Class",
+            "type" : "input",
+            "label" : "Social Media 1 Class"
+        },
+        {
+            "element_id" : "socialMedia1Heading",
+            "type" : "input",
+            "label" : "Social Media 1 Heading"
+        },
+        {
+            "element_id" : "socialMedia2Link",
+            "type" : "input",
+            "label" : "Social Media 2 Link"
+        },
+        {
+            "element_id" : "socialMedia2Class",
+            "type" : "input",
+            "label" : "Social Media 2 Class"
+        },
+        {
+            "element_id" : "socialMedia2Heading",
+            "type" : "input",
+            "label" : "Social Media 2 Heading"
+        },
+        {
+            "element_id" : "socialMedia3Link",
+            "type" : "input",
+            "label" : "Social Media 3 Link"
+        },
+        {
+            "element_id" : "socialMedia3Class",
+            "type" : "input",
+            "label" : "Social Media 3 Class"
+        },
+        {
+            "element_id" : "socialMedia3Heading",
+            "type" : "input",
+            "label" : "Social Media 3 Heading"
+        },
+        {
+            "element_id" : "socialMedia4Link",
+            "type" : "input",
+            "label" : "Social Media 4 Link"
+        },
+        {
+            "element_id" : "socialMedia4Class",
+            "type" : "input",
+            "label" : "Social Media 4 Class"
+        },
+        {
+            "element_id" : "socialMedia4Heading",
+            "type" : "input",
+            "label" : "Social Media 4 Heading"
+        }
+    ],
+    "about" : [
+        {
+            "element_id" : "div1Heading1",
+            "type" : "input",
+            "label" : "Division Left Heading"
+        },
+        {
+            "element_id" : "div1Para1",
+            "type" : "textarea",
+            "label" : "Para 1"
+        },
+        {
+            "element_id" : "div1Para2",
+            "type" : "textarea",
+            "label" : "Para 2"
+        },
+        {
+            "element_id" : "div1Heading2",
+            "type" : "input",
+            "label" : "Division Right Heading"
+        },
+        {
+            "element_id" : "div1List1Heading",
+            "type" : "input",
+            "label" : "List 1 Heading"
+        },
+        {
+            "element_id" : "div1List1Value",
+            "type" : "input",
+            "label" : "List 1 Value"
+        },
+        {
+            "element_id" : "div1List2Heading",
+            "type" : "input",
+            "label" : "List 2 Heading"
+        },
+        {
+            "element_id" : "div1List2Value",
+            "type" : "input",
+            "label" : "List 2 Value"
+        },
+        {
+            "element_id" : "div1List3Heading",
+            "type" : "input",
+            "label" : "List 3 Heading"
+        },
+        {
+            "element_id" : "div1List3Value",
+            "type" : "input",
+            "label" : "List 3 Value"
+        },
+        {
+            "element_id" : "div1List4Heading",
+            "type" : "input",
+            "label" : "List 4 Heading"
+        },
+        {
+            "element_id" : "div1List4Value",
+            "type" : "input",
+            "label" : "List 4 Value"
+        },
+        {
+            "element_id" : "div1List5Heading",
+            "type" : "input",
+            "label" : "List 5 Heading"
+        },
+        {
+            "element_id" : "div1List5Value",
+            "type" : "input",
+            "label" : "List 5 Value"
+        },
+        {
+            "element_id" : "div1List6Heading",
+            "type" : "input",
+            "label" : "List 6 Heading"
+        },
+        {
+            "element_id" : "div1List6Value",
+            "type" : "input",
+            "label" : "List 6 Value"
+        }
+    ],
+    "skill" : [
+        {
+            "element_id" : "div2Heading",
+            "type" : "input",
+            "label" : "Division Heading"
+        },
+        {
+            "element_id" : "div2List1Heading",
+            "type" : "input",
+            "label" : "List 1 Heading"
+        },
+        {
+            "element_id" : "div2List1Percent",
+            "type" : "input",
+            "label" : "List 1 Value"
+        },
+        {
+            "element_id" : "div2List2Heading",
+            "type" : "input",
+            "label" : "List 2 Heading"
+        },
+        {
+            "element_id" : "div2List2Percent",
+            "type" : "input",
+            "label" : "List 2 Value"
+        },
+        {
+            "element_id" : "div2List3Heading",
+            "type" : "input",
+            "label" : "List 3 Heading"
+        },
+        {
+            "element_id" : "div2List3Percent",
+            "type" : "input",
+            "label" : "List 3 Value"
+        },
+        {
+            "element_id" : "div2List4Heading",
+            "type" : "input",
+            "label" : "List 4 Heading"
+        },
+        {
+            "element_id" : "div2List4Percent",
+            "type" : "input",
+            "label" : "List 4 Value"
+        },
+        {
+            "element_id" : "div2List5Heading",
+            "type" : "input",
+            "label" : "List 5 Heading"
+        },
+        {
+            "element_id" : "div2List5Percent",
+            "type" : "input",
+            "label" : "List 5 Value"
+        },
+        {
+            "element_id" : "div2List6Heading",
+            "type" : "input",
+            "label" : "List 6 Heading"
+        },
+        {
+            "element_id" : "div2List6Percent",
+            "type" : "input",
+            "label" : "List 6 Value"
+        }
+    ],
+    "experience" : [
+        {
+            "element_id" : "div3Heading",
+            "type" : "input",
+            "label" : "Division Heading"
+        },
+        {
+            "element_id" : "div3List1LeftDate",
+            "type" : "input",
+            "label" : "List 1 Left Date"
+        },
+        {
+            "element_id" : "div3List1LeftHeading",
+            "type" : "input",
+            "label" : "List 1 Left Heading"
+        },
+        {
+            "element_id" : "div3List1RightHeading",
+            "type" : "input",
+            "label" : "List 1 Right Heading"
+        },
+        {
+            "element_id" : "div3List1RightPara1",
+            "type" : "input",
+            "label" : "List 1 Right Para 1"
+        },
+        {
+            "element_id" : "div3List1RightPara2",
+            "type" : "input",
+            "label" : "List 1 Right Para 2"
+        },
+        {
+            "element_id" : "div3List1RightPara3",
+            "type" : "input",
+            "label" : "List 1 Right Para 3"
+        },
+        {
+            "element_id" : "div3List2LeftDate",
+            "type" : "input",
+            "label" : "List 2 Left Date"
+        },
+        {
+            "element_id" : "div3List2LeftHeading",
+            "type" : "input",
+            "label" : "List 2 Left Heading"
+        },
+        {
+            "element_id" : "div3List2RightHeading",
+            "type" : "input",
+            "label" : "List 2 Right Heading"
+        },
+        {
+            "element_id" : "div3List2RightPara1",
+            "type" : "input",
+            "label" : "List 2 Right Para 1"
+        },
+        {
+            "element_id" : "div3List2RightPara2",
+            "type" : "input",
+            "label" : "List 2 Right Para 2"
+        },
+        {
+            "element_id" : "div3List2RightPara3",
+            "type" : "input",
+            "label" : "List 2 Right Para 3"
+        },
+        {
+            "element_id" : "div3List3LeftDate",
+            "type" : "input",
+            "label" : "List 3 Left Date"
+        },
+        {
+            "element_id" : "div3List3LeftHeading",
+            "type" : "input",
+            "label" : "List 3 Left Heading"
+        },
+        {
+            "element_id" : "div3List3RightHeading",
+            "type" : "input",
+            "label" : "List 3 Right Heading"
+        },
+        {
+            "element_id" : "div3List3RightPara1",
+            "type" : "input",
+            "label" : "List 3 Right Para 1"
+        },
+        {
+            "element_id" : "div3List3RightPara2",
+            "type" : "input",
+            "label" : "List 3 Right Para 2"
+        },
+        {
+            "element_id" : "div3List3RightPara3",
+            "type" : "input",
+            "label" : "List 3 Right Para 3"
+        }
+    ],
+    "education" : [
+        {
+            "element_id" : "div4Heading",
+            "type" : "input",
+            "label" : "Division Heading"
+        },
+        {
+            "element_id" : "div4List1LeftDate",
+            "type" : "input",
+            "label" : "List 1 Left Date"
+        },
+        {
+            "element_id" : "div4List1LeftHeading",
+            "type" : "input",
+            "label" : "List 1 Left Heading"
+        },
+        {
+            "element_id" : "div4List1RightHeading1",
+            "type" : "input",
+            "label" : "List 1 Right Heading 1"
+        },
+        {
+            "element_id" : "div4List1RightHeading2",
+            "type" : "input",
+            "label" : "List 1 Right Heading 2"
+        },
+        {
+            "element_id" : "div4List1RightPara1",
+            "type" : "input",
+            "label" : "List 1 Right Para 1"
+        },
+        {
+            "element_id" : "div4List1RightPara2",
+            "type" : "input",
+            "label" : "List 1 Right Para 2"
+        },
+        {
+            "element_id" : "div4List2LeftDate",
+            "type" : "input",
+            "label" : "List 2 Left Date"
+        },
+        {
+            "element_id" : "div4List2LeftHeading",
+            "type" : "input",
+            "label" : "List 2 Left Heading"
+        },
+        {
+            "element_id" : "div4List2RightHeading1",
+            "type" : "input",
+            "label" : "List 2 Right Heading 1"
+        },
+        {
+            "element_id" : "div4List2RightHeading2",
+            "type" : "input",
+            "label" : "List 2 Right Heading 2"
+        },
+        {
+            "element_id" : "div4List2RightPara1",
+            "type" : "input",
+            "label" : "List 2 Right Para 1"
+        },
+        {
+            "element_id" : "div4List2RightPara2",
+            "type" : "input",
+            "label" : "List 2 Right Para 2"
+        }
+    ],
+    "project" : [
+        {
+            "element_id" : "div5Heading",
+            "type" : "input",
+            "label" : "Division Heading"
+        },
+        {
+            "element_id" : "div5List1LeftHeading",
+            "type" : "input",
+            "label" : "List 1 Left Heading"
+        },
+        {
+            "element_id" : "div5List1RightHeading",
+            "type" : "input",
+            "label" : "List 1 Right Heading"
+        },
+        {
+            "element_id" : "div5List1RightPara1",
+            "type" : "input",
+            "label" : "List 1 Right Para 1"
+        },
+        {
+            "element_id" : "div5List1RightPara2",
+            "type" : "input",
+            "label" : "List 1 Right Para 2"
+        },
+        {
+            "element_id" : "div5List1RightPara3",
+            "type" : "input",
+            "label" : "List 1 Right Para 3"
+        },
+        {
+            "element_id" : "div5List1Link",
+            "type" : "input",
+            "label" : "List 1 Link"
+        },
+        {
+            "element_id" : "div5List2LeftHeading",
+            "type" : "input",
+            "label" : "List 2 Left Heading"
+        },
+        {
+            "element_id" : "div5List2RightHeading",
+            "type" : "input",
+            "label" : "List 2 Right Heading"
+        },
+        {
+            "element_id" : "div5List2RightPara1",
+            "type" : "input",
+            "label" : "List 2 Right Para 1"
+        },
+        {
+            "element_id" : "div5List2RightPara2",
+            "type" : "input",
+            "label" : "List 2 Right Para 2"
+        },
+        {
+            "element_id" : "div5List2RightPara3",
+            "type" : "input",
+            "label" : "List 2 Right Para 3"
+        },
+        {
+            "element_id" : "div5List2Link",
+            "type" : "input",
+            "label" : "List 2 Link"
+        },
+        {
+            "element_id" : "div5List3LeftHeading",
+            "type" : "input",
+            "label" : "List 3 Left Heading"
+        },
+        {
+            "element_id" : "div5List3RightHeading",
+            "type" : "input",
+            "label" : "List 3 Right Heading"
+        },
+        {
+            "element_id" : "div5List3RightPara1",
+            "type" : "input",
+            "label" : "List 3 Right Para 1"
+        },
+        {
+            "element_id" : "div5List3RightPara2",
+            "type" : "input",
+            "label" : "List 3 Right Para 2"
+        },
+        {
+            "element_id" : "div5List3RightPara3",
+            "type" : "input",
+            "label" : "List 3 Right Para 3"
+        },
+        {
+            "element_id" : "div5List3Link",
+            "type" : "input",
+            "label" : "List 3 Link"
+        },
+        {
+            "element_id" : "div5List4LeftHeading",
+            "type" : "input",
+            "label" : "List 4 Left Heading"
+        },
+        {
+            "element_id" : "div5List4RightHeading",
+            "type" : "input",
+            "label" : "List 4 Right Heading"
+        },
+        {
+            "element_id" : "div5List4RightPara1",
+            "type" : "input",
+            "label" : "List 4 Right Para 1"
+        },
+        {
+            "element_id" : "div5List4RightPara2",
+            "type" : "input",
+            "label" : "List 4 Right Para 2"
+        },
+        {
+            "element_id" : "div5List4RightPara3",
+            "type" : "input",
+            "label" : "List 4 Right Para 3"
+        },
+        {
+            "element_id" : "div5List4Link",
+            "type" : "input",
+            "label" : "List 4 Link"
+        },
+        {
+            "element_id" : "div5List5LeftHeading",
+            "type" : "input",
+            "label" : "List 5 Left Heading"
+        },
+        {
+            "element_id" : "div5List5RightHeading",
+            "type" : "input",
+            "label" : "List 5 Right Heading"
+        },
+        {
+            "element_id" : "div5List5RightPara1",
+            "type" : "input",
+            "label" : "List 5 Right Para 1"
+        },
+        {
+            "element_id" : "div5List5RightPara2",
+            "type" : "input",
+            "label" : "List 5 Right Para 2"
+        },
+        {
+            "element_id" : "div5List5RightPara3",
+            "type" : "input",
+            "label" : "List 5 Right Para 3"
+        },
+        {
+            "element_id" : "div5List5Link",
+            "type" : "input",
+            "label" : "List 5 Link"
+        }
+    ],
+    "achievement" : [
+        {
+            "element_id" : "div6Heading",
+            "type" : "input",
+            "label" : "Division Heading"
+        },
+        {
+            "element_id" : "div6List1LeftDate",
+            "type" : "input",
+            "label" : "List 1 Left Date"
+        },
+        {
+            "element_id" : "div6List1LeftHeading",
+            "type" : "input",
+            "label" : "List 1 Left Heading"
+        },
+        {
+            "element_id" : "div6List1RightHeading1",
+            "type" : "input",
+            "label" : "List 1 Right Heading 1"
+        },
+        {
+            "element_id" : "div6List1RightHeading2",
+            "type" : "input",
+            "label" : "List 1 Right Heading 2"
+        },
+        {
+            "element_id" : "div6List1RightPara1",
+            "type" : "input",
+            "label" : "List 1 Right Para 1"
+        },
+        {
+            "element_id" : "div6List1RightPara2",
+            "type" : "input",
+            "label" : "List 1 Right Para 2"
+        },
+        {
+            "element_id" : "div6List2LeftDate",
+            "type" : "input",
+            "label" : "List 2 Left Date"
+        },
+        {
+            "element_id" : "div6List2LeftHeading",
+            "type" : "input",
+            "label" : "List 2 Left Heading"
+        },
+        {
+            "element_id" : "div6List2RightHeading1",
+            "type" : "input",
+            "label" : "List 2 Right Heading 1"
+        },
+        {
+            "element_id" : "div6List2RightHeading2",
+            "type" : "input",
+            "label" : "List 2 Right Heading 2"
+        },
+        {
+            "element_id" : "div6List2RightPara1",
+            "type" : "input",
+            "label" : "List 2 Right Para 1"
+        },
+        {
+            "element_id" : "div6List2RightPara2",
+            "type" : "input",
+            "label" : "List 2 Right Para 2"
+        },
+        {
+            "element_id" : "div6List3LeftDate",
+            "type" : "input",
+            "label" : "List 3 Left Date"
+        },
+        {
+            "element_id" : "div6List3LeftHeading",
+            "type" : "input",
+            "label" : "List 3 Left Heading"
+        },
+        {
+            "element_id" : "div6List3RightHeading1",
+            "type" : "input",
+            "label" : "List 3 Right Heading 1"
+        },
+        {
+            "element_id" : "div6List3RightHeading2",
+            "type" : "input",
+            "label" : "List 3 Right Heading 2"
+        },
+        {
+            "element_id" : "div6List3RightPara1",
+            "type" : "input",
+            "label" : "List 3 Right Para 1"
+        },
+        {
+            "element_id" : "div6List3RightPara2",
+            "type" : "input",
+            "label" : "List 3 Right Para 2"
+        },
+        {
+            "element_id" : "div6List4LeftDate",
+            "type" : "input",
+            "label" : "List 4 Left Date"
+        },
+        {
+            "element_id" : "div6List4LeftHeading",
+            "type" : "input",
+            "label" : "List 4 Left Heading"
+        },
+        {
+            "element_id" : "div6List4RightHeading1",
+            "type" : "input",
+            "label" : "List 4 Right Heading 1"
+        },
+        {
+            "element_id" : "div6List4RightHeading2",
+            "type" : "input",
+            "label" : "List 4 Right Heading 2"
+        },
+        {
+            "element_id" : "div6List4RightPara1",
+            "type" : "input",
+            "label" : "List 4 Right Para 1"
+        },
+        {
+            "element_id" : "div6List4RightPara2",
+            "type" : "input",
+            "label" : "List 4 Right Para 2"
+        }
+    ],
+    "contact" : [
+        {
+            "element_id" : "div7Heading",
+            "type" : "input",
+            "label" : "Division Heading"
+        },
+        {
+            "element_id" : "div7SubHeading",
+            "type" : "input",
+            "label" : "Division Sub Heading"
+        },
+        {
+            "element_id" : "div7ButtonText",
+            "type" : "input",
+            "label" : "Button Text"
+        },
+        {
+            "element_id" : "div7List1Heading",
+            "type" : "input",
+            "label" : "List 1 Heading"
+        },
+        {
+            "element_id" : "div7List2Heading",
+            "type" : "input",
+            "label" : "List 2 Heading"
+        },
+
+
+        {
+            "element_id" : "div7List1Value",
+            "type" : "input",
+            "label" : "List 1 Value"
+        },
+        {
+            "element_id" : "div7List2Value",
+            "type" : "input",
+            "label" : "List 2 Value"
+        },
+        {
+            "element_id" : "div8CopyrightHeading",
+            "type" : "input",
+            "label" : "CopyRight Heading"
+        }
+    ]
+}
