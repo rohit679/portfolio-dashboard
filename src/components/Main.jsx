@@ -66,7 +66,7 @@ const Main = ({division, allData, heading}) => {
         detail.data = {};
         detail.data.data = inputData[id];
         
-        axios.put("http://rohit-prasad-portfolio.herokuapp.com/content/update-content", detail)
+        axios.put("https://rohit-prasad-portfolio.herokuapp.com/content/update-content", detail)
         .then((res)=>{
         console.log("successful");
         successUpdateNotification();

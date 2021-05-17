@@ -48,7 +48,7 @@ export default function SignIn() {
   const onSubmit = (e) => {
     e.preventDefault();
     console.log("data : ",inputData);
-    axios.post("http://rohit-prasad-portfolio.herokuapp.com/auth/admin-login",inputData)
+    axios.post("https://rohit-prasad-portfolio.herokuapp.com/auth/admin-login",inputData)
     .then((res)=>{
       console.log("successful");
       console.log(res);
