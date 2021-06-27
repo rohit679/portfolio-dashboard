@@ -24,7 +24,7 @@ function App() {
         <Route path='/contact' exact component={Contact}/>
         <Route path='/logout' exact component={SignIn}/>
         <Route path='/' exact component={SignIn}/> 
-        <Redirect path='/' exact/>
+        <Redirect path='/'/>
       </Switch>
     </Router>
   );

@@ -6,6 +6,7 @@ import TextareaAutosize from '@material-ui/core/TextareaAutosize';
 import Button from '@material-ui/core/Button';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { baseURL } from '../config';
 
 const useStyles = makeStyles((theme) => ({
     main : {
@@ -66,7 +67,7 @@ const Main = ({division, allData, heading}) => {
         detail.data = {};
         detail.data.data = inputData[id];
         
-        axios.put("https://rohit-prasad-portfolio.herokuapp.com/content/update-content", detail)
+        axios.put(baseURL + "/content/update-content", detail)
         .then((res)=>{
         console.log("successful");
         successUpdateNotification();

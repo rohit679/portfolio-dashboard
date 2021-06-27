@@ -27,6 +27,7 @@ import ContactsIcon from '@material-ui/icons/Contacts';
 import FingerprintIcon from '@material-ui/icons/Fingerprint';
 import { NavLink } from 'react-router-dom';
 import Main from './Main';
+import { baseURL } from '../config';
 
 const drawerWidth = 240;
 
@@ -106,7 +107,7 @@ export default function MiniDrawer() {
   const [data, setData] = useState(null);
   useEffect(() => {
     axios({
-      url : 'https://rohit-prasad-portfolio.herokuapp.com/content/get-data',
+      url : baseURL + '/content/get-data',
       method : 'get'
   }).then((e) => {
       setData(e.data);

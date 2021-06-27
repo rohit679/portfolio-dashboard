@@ -11,6 +11,7 @@ import axios from 'axios';
 import { useHistory } from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { baseURL } from '../config';
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -48,7 +49,7 @@ export default function SignIn() {
   const onSubmit = (e) => {
     e.preventDefault();
     console.log("data : ",inputData);
-    axios.post("https://rohit-prasad-portfolio.herokuapp.com/auth/admin-login",inputData)
+    axios.post(baseURL + "/auth/admin-login",inputData)
     .then((res)=>{
       console.log("successful");
       console.log(res);
